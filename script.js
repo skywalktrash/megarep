@@ -1,1 +1,1 @@
-alert("Hello\nPress OK");
+alert("Hello\nPress OK button");
