@@ -1,0 +1,1 @@
+alert("Hello\nPress OK button");
